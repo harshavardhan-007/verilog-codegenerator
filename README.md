@@ -1,2 +1,2 @@
 # verilog-codegenerator 
-user friendly website for verilog beginners
+user friendly website for verilog enthusiast
